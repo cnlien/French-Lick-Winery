@@ -357,8 +357,8 @@ button:hover,
 button:focus,
 button:active{
 	color:#fff;
-	background-color:#4D2D6C;
-	border:1px solid #4D2D6C;
+	background-color:#62398a;
+	border:1px solid #62398a;
 }
 
 button:-moz-focusring{/* hides firefox focus box */
