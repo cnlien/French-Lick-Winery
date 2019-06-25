@@ -413,11 +413,12 @@ ul.cart-listing li{
 
 .cart-name{
 	font-size:15px;
+	color: #4D2D6C;
 }
 
 .cart-quantity{
 	margin:5px 0 -8px;
-	color:#7d8d93;
+	color:#4D2D6C;
 	font-size:60px;
 	font-weight:900;
 	line-height:1;
