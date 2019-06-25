@@ -94,10 +94,13 @@
 }
 
 
-@media only screen and (max-width:1260px){
+@media only screen and (max-width:1360px){
 
 	.wine-card-wrapper{
-		max-width:1260px;
+		max-width:1360px;
+	}
+	.wine-card{
+		margin-bottom:0px;
 	}
 
 }
@@ -105,11 +108,11 @@
 @media only screen and (max-width:767px){
 
 	.wine-card-wrapper{
-		max-width:300px;
+		max-width:400px;
 	}
 
 	.wine-card{
-		margin-bottom:15px;
+		margin-bottom:0px;
 	}
 
 }
