@@ -1,8 +1,7 @@
 .wine-card-wrapper{
 	width:100%;
-	max-width:1020px;
+	max-width:1260px;
 	margin:0 auto;
-
 	font-size:0;
 }
 
@@ -11,20 +10,20 @@
 	max-width:610px;
 	margin-left:15px;
 	margin-right:15px;
-
 	font-size:13px;
 }
 
 .shipping-states-footer{
 	margin-top:0;
+	display:none;
 }
 
 .wine-card{
 	display:inline-block;
 	width:270px;
-	margin-left:15px;
-	margin-right:15px;
-	margin-bottom:30px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:100px;
 	padding:9px;
 	font-size:13px;
 	vertical-align:top;
@@ -95,7 +94,7 @@
 }
 
 
-@media only screen and (max-width:959px){
+@media only screen and (max-width:1260px){
 
 	.wine-card-wrapper{
 		max-width:640px;
