@@ -414,6 +414,7 @@ ul.cart-listing li{
 .cart-name{
 	font-size:15px;
 	color: #4D2D6C;
+	font-weight: bolder;
 }
 
 .cart-quantity{
