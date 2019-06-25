@@ -21,7 +21,7 @@
 
 .wine-card{
 	display:inline-block;
-	width:270px;
+	width:220px;
 	margin-left:5px;
 	margin-right:5px;
 	padding:9px;
@@ -52,7 +52,7 @@
 }
 
 .wine-card .wine-info .wine-detail-toggle.wine-detail-show{
-	display:block;
+	display:none;
 }
 
 .wine-card.wine-detail-mobile-display .wine-info .wine-detail-toggle.wine-detail-show{
@@ -84,13 +84,13 @@
 
 .wine-basket .styled-select{
 	float:left;
-	width:20%;
-	margin:0 5px;
+	width:25%;
+	margin:0 0 0 3px;
 }
 
 .wine-basket button{
-	width:60%;
-	margin:0 5px;
+	width:50%;
+	margin:0 20px 0 0;
 }
 
 
